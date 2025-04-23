@@ -6,7 +6,7 @@ def osszead(a, b):
 
 # Meghívjuk a függvényt, de az egyik paraméter nem szám, hanem string
 try:
-    eredmeny = osszead(5, "10")
+    eredmeny = osszead(5, 10)
     print(f"Eredmény: {eredmeny}")
 except TypeError as e:
     print(f"TypeError történt: {e}")

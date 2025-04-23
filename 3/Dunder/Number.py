@@ -22,10 +22,8 @@ number2 = Number(5)
 
 print(number1)  # Kiírja: Szám értéke: 1
 
+number3 = number1 + number2
+print(number3)
 
-number6 = number2 + number1
-print(number6)  # Kiírja: Szám értéke: 5
-
-
-number4 = number2 - number1
+number4 = number1 - 11
 print(number4)

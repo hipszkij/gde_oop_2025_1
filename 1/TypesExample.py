@@ -26,3 +26,5 @@ print(add(a, b))
 print(math.floor(c))
 print(math.ceil(c))
 print(round(math.pi, 2))
+
+gép belépési jelszó: Egy csill@g
