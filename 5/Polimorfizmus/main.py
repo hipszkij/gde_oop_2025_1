@@ -1,7 +1,7 @@
 from Dog import Dog
 from Cat import Cat
 
-dog = Dog("Buddy", "dog")
+dog = Dog("Buddy", "dog", 12)
 cat = Cat("Whiskers", "cat")
 
 print(f"{dog.name} makes: {dog.make_sound()}")
